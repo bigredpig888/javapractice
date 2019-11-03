@@ -10,5 +10,7 @@ public class StudentWork implements Work {
         aa= "aa";
         System.out.println(aa);
 
+        public String hh = "hh";
+
     }
 }
