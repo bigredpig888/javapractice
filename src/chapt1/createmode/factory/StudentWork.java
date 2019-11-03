@@ -12,7 +12,7 @@ public class StudentWork implements Work {
         
         public String gg="hh";
 
-        public String hh = "gg";
+        public String hh = "hhhhhhhhhhhhhhh";
 
     }
 }
