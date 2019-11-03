@@ -10,7 +10,7 @@ public class StudentWork implements Work {
         aa= "aa";
         System.out.println(aa);
         
-        public String gg="gg";
+        public String gg="hh";
 
         public String hh = "hh";
 
