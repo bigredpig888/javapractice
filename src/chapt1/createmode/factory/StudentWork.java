@@ -9,6 +9,8 @@ public class StudentWork implements Work {
         public String aa;
         aa= "aa";
         System.out.println(aa);
+        
+        public String gg="gg";
 
         public String hh = "hh";
 
